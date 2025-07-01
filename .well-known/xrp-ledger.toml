@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "empty"
+name = "Pandamonium"
+
+[[TOKENS]]
+issuer = "empty"
+currency = "PANDA"
+name = "Pandamonium"
+desc = "Pandamonium (PANDA) is the wildest bear to enter the XRPL meme arena. The Official Mascot of XRP Decks, Panda is here to friggin send it."
+icon = "https://i.postimg.cc/c1cT4R0w/openart-image-f-RRu81-y-1750827763855-raw.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://pandamonium.ch"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://pandamonium.ch"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/SodalitePROMO"
+type = "socialmedia"
